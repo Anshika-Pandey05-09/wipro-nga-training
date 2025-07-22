@@ -1,0 +1,8 @@
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\bin\Debug\demo_interest_calculator.exe.config
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\bin\Debug\demo_interest_calculator.exe
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\bin\Debug\demo_interest_calculator.pdb
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\obj\Debug\demo_interest_calculator.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\obj\Debug\demo_interest_calculator.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\obj\Debug\demo_interest_calculator.exe
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\obj\Debug\demo_interest_calculator.pdb
+C:\Users\pande\source\repos\wipro_day1\demo_interest_calculator\obj\Debug\demo_interest_calculator.exe.config

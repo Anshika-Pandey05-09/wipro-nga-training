@@ -1,0 +1,5 @@
+﻿Build started at 06:33...
+1>------ Build started: Project: day1_switch, Configuration: Debug Any CPU ------
+1>  day1_switch -> C:\Users\pande\source\repos\wipro_day1\day1_switch\bin\Debug\day1_switch.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 06:33 and took 08.116 seconds ==========

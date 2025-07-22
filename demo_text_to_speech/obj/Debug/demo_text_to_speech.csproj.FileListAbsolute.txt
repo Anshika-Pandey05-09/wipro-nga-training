@@ -1,0 +1,8 @@
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\bin\Debug\demo_text_to_speech.exe.config
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\bin\Debug\demo_text_to_speech.exe
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\bin\Debug\demo_text_to_speech.pdb
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\obj\Debug\demo_text_to_speech.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\obj\Debug\demo_text_to_speech.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\obj\Debug\demo_text_to_speech.exe
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\obj\Debug\demo_text_to_speech.pdb
+C:\Users\pande\source\repos\wipro_day1\demo_text_to_speech\obj\Debug\demo_text_to_speech.exe.config

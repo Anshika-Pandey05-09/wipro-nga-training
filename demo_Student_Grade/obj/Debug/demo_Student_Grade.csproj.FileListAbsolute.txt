@@ -1,0 +1,15 @@
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\obj\Debug\demo_Student_Grade.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\obj\Debug\demo_Student_Grade.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\bin\Debug\demo_Student_Grade.exe.config
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\bin\Debug\demo_Student_Grade.exe
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\bin\Debug\demo_Student_Grade.pdb
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\obj\Debug\demo_Student_Grade.exe
+C:\Users\pande\source\repos\wipro_day1\demo_Student_Grade\obj\Debug\demo_Student_Grade.pdb
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\bin\Debug\demo_Student_Grade.exe.config
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\bin\Debug\demo_Student_Grade.exe
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\bin\Debug\demo_Student_Grade.pdb
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\obj\Debug\demo_Student_Grade.csproj.AssemblyReference.cache
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\obj\Debug\demo_Student_Grade.exe.config
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\obj\Debug\demo_Student_Grade.csproj.CoreCompileInputs.cache
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\obj\Debug\demo_Student_Grade.exe
+C:\Users\pande\OneDrive\Desktop\Wipro codes\demo_Student_Grade\obj\Debug\demo_Student_Grade.pdb
