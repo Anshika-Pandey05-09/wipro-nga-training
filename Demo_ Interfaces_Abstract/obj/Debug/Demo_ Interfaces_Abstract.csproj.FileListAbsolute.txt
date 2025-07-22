@@ -1,0 +1,2 @@
+C:\Users\pande\source\repos\wipro_day1\Demo_ Interfaces_Abstract\obj\Debug\Demo_ Interfaces_Abstract.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_ Interfaces_Abstract\obj\Debug\Demo_ Interfaces_Abstract.csproj.CoreCompileInputs.cache

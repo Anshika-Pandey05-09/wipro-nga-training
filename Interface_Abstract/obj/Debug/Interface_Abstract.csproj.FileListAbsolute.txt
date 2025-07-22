@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\bin\Debug\Interface_Abstract.exe.config
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\bin\Debug\Interface_Abstract.exe
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\bin\Debug\Interface_Abstract.pdb
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\obj\Debug\Interface_Abstract.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\obj\Debug\Interface_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\obj\Debug\Interface_Abstract.exe
+C:\Users\pande\source\repos\wipro_day1\Interface_Abstract\obj\Debug\Interface_Abstract.pdb

@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\bin\Debug\demo_sqrt.exe.config
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\bin\Debug\demo_sqrt.exe
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\bin\Debug\demo_sqrt.pdb
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\obj\Debug\demo_sqrt.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\obj\Debug\demo_sqrt.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\obj\Debug\demo_sqrt.exe
+C:\Users\pande\source\repos\wipro_day1\demo_sqrt\obj\Debug\demo_sqrt.pdb
