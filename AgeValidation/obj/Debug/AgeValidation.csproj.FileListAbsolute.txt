@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\bin\Debug\AgeValidation.exe.config
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\bin\Debug\AgeValidation.exe
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\bin\Debug\AgeValidation.pdb
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\obj\Debug\AgeValidation.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\obj\Debug\AgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\obj\Debug\AgeValidation.exe
+C:\Users\pande\source\repos\wipro_day1\AgeValidation\obj\Debug\AgeValidation.pdb
