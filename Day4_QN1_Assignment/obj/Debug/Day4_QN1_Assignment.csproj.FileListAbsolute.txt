@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\bin\Debug\Day4_QN1_Assignment.exe.config
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\bin\Debug\Day4_QN1_Assignment.exe
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\bin\Debug\Day4_QN1_Assignment.pdb
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\obj\Debug\Day4_QN1_Assignment.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\obj\Debug\Day4_QN1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\obj\Debug\Day4_QN1_Assignment.exe
+C:\Users\pande\source\repos\wipro_day1\Day4_QN1_Assignment\obj\Debug\Day4_QN1_Assignment.pdb
