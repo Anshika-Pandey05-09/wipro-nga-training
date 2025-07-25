@@ -1,0 +1,8 @@
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\bin\Debug\Demo_Collection.exe.config
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\bin\Debug\Demo_Collection.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\bin\Debug\Demo_Collection.pdb
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\obj\Debug\Demo_Collection.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\obj\Debug\Demo_Collection.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\obj\Debug\Demo_Collection.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\obj\Debug\Demo_Collection.pdb
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection\obj\Debug\Demo_Collection.exe.config
