@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\bin\Debug\Generic_Collection_Day3.exe.config
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\bin\Debug\Generic_Collection_Day3.exe
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\bin\Debug\Generic_Collection_Day3.pdb
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\obj\Debug\Generic_Collection_Day3.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\obj\Debug\Generic_Collection_Day3.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\obj\Debug\Generic_Collection_Day3.exe
+C:\Users\pande\source\repos\wipro_day1\Generic_Collection_Day3\obj\Debug\Generic_Collection_Day3.pdb
