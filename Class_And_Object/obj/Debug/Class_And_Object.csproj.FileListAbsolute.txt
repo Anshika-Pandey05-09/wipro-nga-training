@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\bin\Debug\Class_And_Object.exe.config
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\bin\Debug\Class_And_Object.exe
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\bin\Debug\Class_And_Object.pdb
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\obj\Debug\Class_And_Object.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\obj\Debug\Class_And_Object.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\obj\Debug\Class_And_Object.exe
+C:\Users\pande\source\repos\wipro_day1\Class_And_Object\obj\Debug\Class_And_Object.pdb
