@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\bin\Debug\Demo_Interface.exe.config
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\bin\Debug\Demo_Interface.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\bin\Debug\Demo_Interface.pdb
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\obj\Debug\Demo_Interface.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\obj\Debug\Demo_Interface.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\obj\Debug\Demo_Interface.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_Inheritance\obj\Debug\Demo_Interface.pdb
