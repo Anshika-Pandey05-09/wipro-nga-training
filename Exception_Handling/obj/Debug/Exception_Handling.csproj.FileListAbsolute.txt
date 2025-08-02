@@ -1,0 +1,16 @@
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\obj\Debug\Exception_Handling.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\bin\Debug\Exception_Handling.exe
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\bin\Debug\Exception_Handling.pdb
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\obj\Debug\Exception_Handling.exe
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\obj\Debug\Exception_Handling.pdb
+C:\Users\pande\source\repos\wipro_day1\Exception_Handling\obj\Debug\Exception_Handling.exe.config
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\bin\Debug\Exception_Handling.exe
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\bin\Debug\Exception_Handling.pdb
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\obj\Debug\Exception_Handling.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\obj\Debug\Exception_Handling.exe.config
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\obj\Debug\Exception_Handling.exe
+C:\Users\pande\source\repos\wipro_week1\Exception_Handling\obj\Debug\Exception_Handling.pdb
