@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\bin\Debug\Demo_Collection_of_Objects.exe.config
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\bin\Debug\Demo_Collection_of_Objects.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\bin\Debug\Demo_Collection_of_Objects.pdb
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\obj\Debug\Demo_Collection_of_Objects.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\obj\Debug\Demo_Collection_of_Objects.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\obj\Debug\Demo_Collection_of_Objects.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_Collection_of_Objects\obj\Debug\Demo_Collection_of_Objects.pdb
