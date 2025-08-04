@@ -1,0 +1,7 @@
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\bin\Debug\Demo_PatternMatching_Switch.exe.config
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\bin\Debug\Demo_PatternMatching_Switch.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\bin\Debug\Demo_PatternMatching_Switch.pdb
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\obj\Debug\Demo_PatternMatching_Switch.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\obj\Debug\Demo_PatternMatching_Switch.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\obj\Debug\Demo_PatternMatching_Switch.exe
+C:\Users\pande\source\repos\wipro_day1\Demo_PatternMatching_Switch\obj\Debug\Demo_PatternMatching_Switch.pdb
